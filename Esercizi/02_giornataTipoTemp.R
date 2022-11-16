@@ -1,4 +1,4 @@
-setwd("C:/Users/ricca/OneDrive/Desktop/UNI Magistrale/Corsi/1 anno/1Semestre/Computational Statistics/EserciziEsameDef")
+setwd("Your directory")
 temperatura_media <- vector(length = 1428)
 minutes_in_a_day <- 1:1428
 

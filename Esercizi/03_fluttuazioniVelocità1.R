@@ -1,6 +1,6 @@
 require(ggplot2)
 require(stringr)
-setwd("C:/Users/ricca/OneDrive/Desktop/UNI Magistrale/Corsi/1 anno/1Semestre/Computational Statistics/EserciziEsameDef")
+setwd("Your directory")
 
 read_data <- function(n){
   if(n < 10)

@@ -1,6 +1,6 @@
 require(stringr)
 
-setwd("C:/Users/ricca/OneDrive/Desktop/UNI Magistrale/Corsi/1 anno/1Semestre/Computational Statistics/EserciziEsameDef")
+setwd("Your directory")
 data <- read.table("settembre/2018-09-10.dat", sep = " ", skip = 0)
 
 

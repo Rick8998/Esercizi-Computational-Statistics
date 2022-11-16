@@ -4,7 +4,7 @@
 # library(fields)
 # library(grDevices)
 # library(plotrix)
-setwd("C:/Users/ricca/OneDrive/Desktop/UNI Magistrale/Corsi/1 anno/1Semestre/Computational Statistics/EserciziEsameDef")
+setwd("Your directory")
 
 
 day <- function(i){
